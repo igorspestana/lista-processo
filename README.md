@@ -7,8 +7,8 @@ Programas desenvolvidos em shell script para diversas utilidades no Linux.
 
 **ListaUsuario.sh**  - Lista todos os usuários (humanos) do sistema exibindo as principais informacoes da conta.
 
-**MonitoraProcesso.sh**  - Monitora se um processo está em execução
+**MonitoraProcesso.sh**  - Monitora se um processo está em execução.
 
-**RelatorioMaquina.sh** - Relatório de informações da máquina atual
+**RelatorioMaquina.sh** - Relatório de informações da máquina atual.
 
-**RelatorioMaquina.sh** - Relatório de informações do usuário   
+**RelatorioMaquina.sh** - Relatório de informações do usuário.
